@@ -76,10 +76,10 @@ def upload_to_slack(title, content):
     log.info('Uploading to Slack ({} bytes)...', len(content))
     resp = sc.api_call(
         'files.upload',
-        channel='#general',
         file=content,
+        filename=title,
         title=title,
-        channels='#general',
+        channels='#reports',
     )
 
     return resp
