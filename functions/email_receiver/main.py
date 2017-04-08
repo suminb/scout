@@ -61,6 +61,14 @@ def fetch_attachments(urls):
         content_disp = resp.headers['Content-disposition']
         title = content_disp[len('Filename='):]
 
+        # Fix an incorrectly decoded string
+        try:
+            # Python 3.x
+            title = title.encode('latin-1').decode('euc-kr')
+        except UnicodeDecodeError:
+            # Python 2.x
+            title = title.decode('euc-kr')
+
         yield title, resp.content
 
 
