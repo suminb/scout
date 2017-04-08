@@ -1,0 +1,604 @@
+Delivered-To: suminb@gmail.com
+Received: by 10.12.136.227 with SMTP id 32csp127836qvo;
+        Thu, 6 Apr 2017 23:32:31 -0700 (PDT)
+X-Received: by 10.98.73.15 with SMTP id w15mr38690336pfa.218.1491546751417;
+        Thu, 06 Apr 2017 23:32:31 -0700 (PDT)
+Return-Path: <mailmaster@miraeasset.com>
+Received: from mailing.miraeasset.com ([211.115.103.113])
+        by mx.google.com with SMTP id u129si4089617pgc.340.2017.04.06.23.32.30
+        for <suminb@gmail.com>;
+        Thu, 06 Apr 2017 23:32:31 -0700 (PDT)
+Received-SPF: pass (google.com: domain of mailmaster@miraeasset.com designates 211.115.103.113 as permitted sender) client-ip=211.115.103.113;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of mailmaster@miraeasset.com designates 211.115.103.113 as permitted sender) smtp.mailfrom=mailmaster@miraeasset.com
+Message-ID: <58e7327f.8779630a.413eb.ee51SMTPIN_ADDED_BROKEN@mx.google.com>
+X-Google-Original-Message-ID: <201704071531421812@mailing.miraeasset.com_Ems@mailing.miraeasset.com>
+From: "=?utf-8?B?66+4656Y7JeQ7IWL64yA7Jqw?=" <mailmaster@miraeasset.com>
+To: "=?utf-8?B?67OA7IiY66+8?=" <suminb@gmail.com>
+Reply-to: <mailmaster@miraeasset.com>
+Subject: =?utf-8?B?W+uvuOuemOyXkOyFi+uMgOyasF0g7KCA7Y+J6rCA65CcIOyYgQ==?=
+ =?utf-8?B?7Jet7J2EIOywvuyVhOyEnA==?=
+Date: Fri, 07 Apr 2017 15:31:42 +0900
+X-WORKER_ID: <single.gmail.com_Worker_0>
+X-MAIL_ID: <UE9TVF9JRD0yMDE3MDQwNjAwMDAy>
+X-MEMBER_ID: <TV9JRD0zMDkwMTQ=>
+X-SEND_TYPE: <U1RZUEU9TUFTUw==>
+X-LIST_TABLE: <TElTVF9UQUJMRT1FTVNfTUFTU19TRU5EX0xJU1RfMDQ=>
+X-Mailer: eMsSMTP Ver6.5( PLUTO-build 0322 )
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko" xml:lang="ko" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>ë¯¸ëììëì° ë°ì¼ë¦¬ ë¦¬í¬í¸</title>
+<meta content="text/html; charset=euc-kr" http-equiv="Content-Type" />
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+</head>
+<body style="font-size: 12px; font-family: &quot;Dotum&quot;, sans-serif; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px; background-color: #fff">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="720">
+<tbody>
+<tr>
+<td style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px">
+<table border="0" cellpadding="0" cellspacing="0">
+<colgroup>
+<col style="width: 40px" />
+<col style="width: 640px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr style="background-color: #00427a">
+<td width="40">
+</td>
+<!-- [s] header -->                  <td style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px" width="640">
+<table cellpadding="0" cellspacing="0" width="100%">
+<colgroup>
+<col style="width: 525px" />
+<col />
+</colgroup>
+<tbody>
+<tr>
+<td style="border-bottom: #1f5888 1px solid; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px">
+<a href="http://mailing.miraeasset.com:8082/Check.html?TV9JRD0zMDkwMTQ=&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FTVNfTUFTU19TRU5EX0xJU1RfMDQ=&UE9TVF9JRD0yMDE3MDQwNjAwMDAy&VEM9MjAxNzA1MDY=&S0lORD1D&Q0lEPTAwMQ==&URL=https://www.miraeassetdaewoo.com/" style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px" target="blank" title="ë¯¸ëììëì° ì ì°½ ì´ë¦¼"><img alt="ë¯¸ëììëì°" border="0" src="http://img.miraeassetdaewoo.com/email/daily/edm_daily_logo.gif" /></a></td>
+<!-- [s] ë ì§ -->                          <td style="font-size: 13px; border-bottom: #f58220 3px solid; font-weight: bold; color: #fff; padding-bottom: 10px; text-align: center; padding-top: 51px">
+2017.04.07 ê¸ìì¼</td>
+<!-- [e] ë ì§ -->                        </tr>
+<tr>
+<td align="center" colspan="2" style="padding-bottom: 20px; padding-top: 58px; padding-left: 0px; padding-right: 0px">
+<img alt="ë¯¸ëììëì°" border="0" src="http://img.miraeassetdaewoo.com/email/daily/edm_daily_title.gif" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+<!-- [e] header -->                  <td width="40">
+</td>
+</tr>
+<tr style="background-color: #f0f3f8">
+<td valign="top" width="40">
+<img alt="" border="0" src="http://img.miraeassetdaewoo.com/email/daily/edm_daily_padding.gif" /></td>
+<!-- [s] ì´ë¯¸ì§ ì»¨íì¸  -->                  <td width="640">
+<table cellpadding="0" cellspacing="0" width="100%">
+<colgroup>
+<col style="width: 320px" />
+<col style="width: 320px" />
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" width="320">
+<a href="http://mailing.miraeasset.com:8082/Check.html?TV9JRD0zMDkwMTQ=&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FTVNfTUFTU19TRU5EX0xJU1RfMDQ=&UE9TVF9JRD0yMDE3MDQwNjAwMDAy&VEM9MjAxNzA1MDY=&S0lORD1D&Q0lEPTAwMg==&URL=https://www.miraeassetdaewoo.com/bbs/maildownload/2017040621284281_1567" target="blank" title="ì ì°½ ì´ë¦¼"><img border="0" src="https://img.miraeassetdaewoo.com/email/daily/201704/edm_daily_cont_01_20170407.jpg" /></a></td>
+<td width="320">
+<a href="http://mailing.miraeasset.com:8082/Check.html?TV9JRD0zMDkwMTQ=&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FTVNfTUFTU19TRU5EX0xJU1RfMDQ=&UE9TVF9JRD0yMDE3MDQwNjAwMDAy&VEM9MjAxNzA1MDY=&S0lORD1D&Q0lEPTAwMw==&URL=https://www.miraeassetdaewoo.com/bbs/maildownload/2017040609582672_155" target="blank" title="ì ì°½ ì´ë¦¼"><img border="0" src="https://img.miraeassetdaewoo.com/email/daily/201704/edm_daily_cont_02_20170407.jpg &#13;&#10;" /></a><br />
+<a href="http://mailing.miraeasset.com:8082/Check.html?TV9JRD0zMDkwMTQ=&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FTVNfTUFTU19TRU5EX0xJU1RfMDQ=&UE9TVF9JRD0yMDE3MDQwNjAwMDAy&VEM9MjAxNzA1MDY=&S0lORD1D&Q0lEPTAwNA==&URL=https://www.miraeassetdaewoo.com/bbs/maildownload/2017040620170609_155" target="blank" title="ì ì°½ ì´ë¦¼"><img border="0" src="https://img.miraeassetdaewoo.com/email/daily/201704/edm_daily_cont_03_20170407.jpg" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<!-- [e] ì´ë¯¸ì§ ì»¨íì¸  -->                  <td valign="top" width="40">
+<img alt="" border="0" src="http://img.miraeassetdaewoo.com/email/daily/edm_daily_padding.gif" /></td>
+</tr>
+<!-- [s] êµ­ë´/í´ì¸ ì£¼ìì§ì -->                <tr style="background-color: #f0f3f8">
+<td valign="top" width="40">
+</td>
+<td align="center" valign="top" width="640">
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td align="center" style="padding-bottom: 20px; padding-top: 40px">
+<img border="0" src="http://img.miraeassetdaewoo.com/email/daily/edm_title_index.gif" /></td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<!--ì¬ê¸°ì ì§ì ë³µì¬íì¸ì-->                            <table border="0" cellpadding="0" cellspacing="0" style="border-top: #606060 2px solid; background: #fff" width="640">
+<tbody id="bo047008">
+<tr style="background: #f9f9f9">
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" style="border-top: #606060 2px solid; background: #fff" width="640">
+<tbody id="bo047008">
+<tr style="background: #f9f9f9">
+</tr>
+<tr>
+<td style="padding-bottom: 10px; padding-top: 11px; padding-left: 11px; padding-right: 11px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<caption style="overflow: hidden; font-size: 0px; height: 0px; width: 0px; color: transparent; line-height: 0; visibility: hidden">
+ì£¼ìì§ì</caption>
+<colgroup>
+<col />
+<col style="width: 50px" />
+<col style="width: 20px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr>
+<td style="font-size: 11px; color: #666">
+KOSPI</td>
+<td style="font-size: 11px; text-align: right">
+2,152.75</td>
+<td style="font-size: 11px; text-align: right">
+</td>
+<td style="font-size: 11px; text-align: right">
+0.00%</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-bottom: 10px; padding-top: 11px; padding-left: 11px; padding-right: 11px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<caption style="overflow: hidden; font-size: 0px; height: 0px; width: 0px; color: transparent; line-height: 0; visibility: hidden">
+ì£¼ìì§ì</caption>
+<colgroup>
+<col />
+<col style="width: 50px" />
+<col style="width: 20px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr>
+<td style="font-size: 11px; color: #666">
+KOSDAQ</td>
+<td style="font-size: 11px; text-align: right">
+630.46</td>
+<td style="font-size: 11px; text-align: right">
+</td>
+<td style="font-size: 11px; text-align: right">
+0.00%</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-bottom: 10px; padding-top: 11px; padding-left: 11px; padding-right: 11px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<caption style="overflow: hidden; font-size: 0px; height: 0px; width: 0px; color: transparent; line-height: 0; visibility: hidden">
+ì£¼ìì§ì</caption>
+<colgroup>
+<col />
+<col style="width: 50px" />
+<col style="width: 20px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr style="color: #f92f00">
+<td style="font-size: 11px; color: #666">
+ë¤ì° ì°ì</td>
+<td style="font-size: 11px; text-align: right">
+20,662.95</td>
+<td style="font-size: 11px; text-align: right">
+â²</td>
+<td style="font-size: 11px; text-align: right">
+0.07%</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="background: #fff">
+</tr>
+<tr>
+<td style="padding-bottom: 10px; padding-top: 11px; padding-left: 11px; padding-right: 11px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<caption style="overflow: hidden; font-size: 0px; height: 0px; width: 0px; color: transparent; line-height: 0; visibility: hidden">
+ì£¼ìì§ì</caption>
+<colgroup>
+<col />
+<col style="width: 50px" />
+<col style="width: 20px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr style="color: #f92f00">
+<td style="font-size: 11px; color: #666">
+ëì¤ë¥ ì¢í©</td>
+<td style="font-size: 11px; text-align: right">
+5,878.95</td>
+<td style="font-size: 11px; text-align: right">
+â²</td>
+<td style="font-size: 11px; text-align: right">
+0.25%</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-bottom: 10px; padding-top: 11px; padding-left: 11px; padding-right: 11px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<caption style="overflow: hidden; font-size: 0px; height: 0px; width: 0px; color: transparent; line-height: 0; visibility: hidden">
+ì£¼ìì§ì</caption>
+<colgroup>
+<col />
+<col style="width: 50px" />
+<col style="width: 20px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr style="color: #5987c2">
+<td style="font-size: 11px; color: #666">
+ëì¼ì´225</td>
+<td style="font-size: 11px; text-align: right">
+18,597.06</td>
+<td style="font-size: 11px; text-align: right">
+â¼</td>
+<td style="font-size: 11px; text-align: right">
+1.40%</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-bottom: 10px; padding-top: 11px; padding-left: 11px; padding-right: 11px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<caption style="overflow: hidden; font-size: 0px; height: 0px; width: 0px; color: transparent; line-height: 0; visibility: hidden">
+ì£¼ìì§ì</caption>
+<colgroup>
+<col />
+<col style="width: 50px" />
+<col style="width: 20px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr style="color: #f92f00">
+<td style="font-size: 11px; color: #666">
+ìí´ì¢í©</td>
+<td style="font-size: 11px; text-align: right">
+3,281.01</td>
+<td style="font-size: 11px; text-align: right">
+â²</td>
+<td style="font-size: 11px; text-align: right">
+0.33%</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="background: #f9f9f9">
+</tr>
+<tr>
+<td style="padding-bottom: 10px; padding-top: 11px; padding-left: 11px; padding-right: 11px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<caption style="overflow: hidden; font-size: 0px; height: 0px; width: 0px; color: transparent; line-height: 0; visibility: hidden">
+ì£¼ìì§ì</caption>
+<colgroup>
+<col />
+<col style="width: 50px" />
+<col style="width: 20px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr style="color: #5987c2">
+<td style="font-size: 11px; color: #666">
+í­ì ì°¨ì´ëê¸°ì(H)</td>
+<td style="font-size: 11px; text-align: right">
+10,276.41</td>
+<td style="font-size: 11px; text-align: right">
+â¼</td>
+<td style="font-size: 11px; text-align: right">
+0.86%</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-bottom: 10px; padding-top: 11px; padding-left: 11px; padding-right: 11px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<caption style="overflow: hidden; font-size: 0px; height: 0px; width: 0px; color: transparent; line-height: 0; visibility: hidden">
+ì£¼ìì§ì</caption>
+<colgroup>
+<col />
+<col style="width: 50px" />
+<col style="width: 20px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr style="color: #5987c2">
+<td style="font-size: 11px; color: #666">
+ë² í¸ë¨ í¸ì¹ë¯¼</td>
+<td style="font-size: 11px; text-align: right">
+723.22</td>
+<td style="font-size: 11px; text-align: right">
+â¼</td>
+<td style="font-size: 11px; text-align: right">
+0.13%</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-bottom: 10px; padding-top: 11px; padding-left: 11px; padding-right: 11px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<caption style="overflow: hidden; font-size: 0px; height: 0px; width: 0px; color: transparent; line-height: 0; visibility: hidden">
+ì£¼ìì§ì</caption>
+<colgroup>
+<col />
+<col style="width: 50px" />
+<col style="width: 20px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr style="color: #5987c2">
+<td style="font-size: 11px; color: #666">
+ìêµ­ FTSE100</td>
+<td style="font-size: 11px; text-align: right">
+7,303.20</td>
+<td style="font-size: 11px; text-align: right">
+â¼</td>
+<td style="font-size: 11px; text-align: right">
+0.39%</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="background: #fff">
+</tr>
+<tr>
+<td style="padding-bottom: 10px; padding-top: 11px; padding-left: 11px; padding-right: 11px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<caption style="overflow: hidden; font-size: 0px; height: 0px; width: 0px; color: transparent; line-height: 0; visibility: hidden">
+ì£¼ìì§ì</caption>
+<colgroup>
+<col />
+<col style="width: 50px" />
+<col style="width: 20px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr style="color: #f92f00">
+<td style="font-size: 11px; color: #666">
+ëì¼ DAX30</td>
+<td style="font-size: 11px; text-align: right">
+12,230.89</td>
+<td style="font-size: 11px; text-align: right">
+â²</td>
+<td style="font-size: 11px; text-align: right">
+0.11%</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-bottom: 10px; padding-top: 11px; padding-left: 11px; padding-right: 11px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<caption style="overflow: hidden; font-size: 0px; height: 0px; width: 0px; color: transparent; line-height: 0; visibility: hidden">
+ì£¼ìì§ì</caption>
+<colgroup>
+<col />
+<col style="width: 50px" />
+<col style="width: 20px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr style="color: #f92f00">
+<td style="font-size: 11px; color: #666">
+íëì¤ CAC40</td>
+<td style="font-size: 11px; text-align: right">
+5,121.44</td>
+<td style="font-size: 11px; text-align: right">
+â²</td>
+<td style="font-size: 11px; text-align: right">
+0.58%</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-bottom: 10px; padding-top: 11px; padding-left: 11px; padding-right: 11px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<caption style="overflow: hidden; font-size: 0px; height: 0px; width: 0px; color: transparent; line-height: 0; visibility: hidden">
+ì£¼ìì§ì</caption>
+<colgroup>
+<col />
+<col style="width: 50px" />
+<col style="width: 20px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr style="color: #f92f00">
+<td style="font-size: 11px; color: #666">
+ì/ë¬ë¬</td>
+<td style="font-size: 11px; text-align: right">
+1,133.20</td>
+<td style="font-size: 11px; text-align: right">
+â²</td>
+<td style="font-size: 11px; text-align: right">
+0.78%</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="background: #f9f9f9">
+</tr>
+<tr>
+<td style="padding-bottom: 10px; padding-top: 11px; padding-left: 11px; padding-right: 11px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<caption style="overflow: hidden; font-size: 0px; height: 0px; width: 0px; color: transparent; line-height: 0; visibility: hidden">
+ì£¼ìì§ì</caption>
+<colgroup>
+<col />
+<col style="width: 50px" />
+<col style="width: 20px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr style="color: #5987c2">
+<td style="font-size: 11px; color: #666">
+ì¼ë³¸ ì/ë¬ë¬</td>
+<td style="font-size: 11px; text-align: right">
+110.88</td>
+<td style="font-size: 11px; text-align: right">
+â¼</td>
+<td style="font-size: 11px; text-align: right">
+0.26%</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-bottom: 10px; padding-top: 11px; padding-left: 11px; padding-right: 11px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<caption style="overflow: hidden; font-size: 0px; height: 0px; width: 0px; color: transparent; line-height: 0; visibility: hidden">
+ì£¼ìì§ì</caption>
+<colgroup>
+<col />
+<col style="width: 50px" />
+<col style="width: 20px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr style="color: #f92f00">
+<td style="font-size: 11px; color: #666">
+íì½© ë¬ë¬/ë¬ë¬</td>
+<td style="font-size: 11px; text-align: right">
+7.76</td>
+<td style="font-size: 11px; text-align: right">
+â²</td>
+<td style="font-size: 11px; text-align: right">
+0.01%</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-bottom: 10px; padding-top: 11px; padding-left: 11px; padding-right: 11px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<caption style="overflow: hidden; font-size: 0px; height: 0px; width: 0px; color: transparent; line-height: 0; visibility: hidden">
+ì£¼ìì§ì</caption>
+<colgroup>
+<col />
+<col style="width: 50px" />
+<col style="width: 20px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr style="color: #f92f00">
+<td style="font-size: 11px; color: #666">
+ì¤êµ­ ìì/ë¬ë¬</td>
+<td style="font-size: 11px; text-align: right">
+6.89</td>
+<td style="font-size: 11px; text-align: right">
+â²</td>
+<td style="font-size: 11px; text-align: right">
+0.05%</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--ì¬ê¸°ì ì§ì ë³µì¬ ìë£-->                          </td>
+</tr>
+<tr>
+<td align="center" style="padding-bottom: 40px; padding-top: 10px; padding-left: 0px; padding-right: 0px">
+<a href="http://mailing.miraeasset.com:8082/Check.html?TV9JRD0zMDkwMTQ=&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FTVNfTUFTU19TRU5EX0xJU1RfMDQ=&UE9TVF9JRD0yMDE3MDQwNjAwMDAy&VEM9MjAxNzA1MDY=&S0lORD1D&Q0lEPTAwNQ==&URL=http://fngenii.miraeassetdaewoo.com/" target="blank" title="FNì§ëìì´ ì ì°½ ì´ë¦¼"><img alt="ë¹ì ì í¬ìì íì´ëë ê¸ìµì´ì¼ê¸° - FNì§ëìì´" border="0" src="http://img.miraeassetdaewoo.com/email/daily/edm_daily_banner_01.gif" /></a><a href="http://mailing.miraeasset.com:8082/Check.html?TV9JRD0zMDkwMTQ=&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FTVNfTUFTU19TRU5EX0xJU1RfMDQ=&UE9TVF9JRD0yMDE3MDQwNjAwMDAy&VEM9MjAxNzA1MDY=&S0lORD1D&Q0lEPTAwNg==&URL=https://www.miraeassetdaewoo.com/bbs/board/message/view.do?categoryId=66&amp;selectedId=1000000202&amp;selectedId=1000000203&amp;selectedId=1000003101&amp;messageId=2236724&#13;&#10;" target="blank" title="ìì°ë°°ë¶ADVISOR ì ì°½ ì´ë¦¼"><img alt="ì ìµí í¬ìì ë³´ë¥¼ ì ííê² ë°ë ë°©ë² - ì°ë½ì² ì ë³´ ë³ê²½" border="0" src="http://img.miraeassetdaewoo.com/email/daily/edm_daily_banner_02.gif" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td valign="top" width="40">
+</td>
+</tr>
+<!-- [e] êµ­ë´/í´ì¸ ì£¼ìì§ì -->              </tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-top: #e5e7e9 1px solid; background: #fff; padding-top: 25px">
+<table border="0" cellpadding="0" cellspacing="0">
+<colgroup>
+<col style="width: 40px" />
+<col style="width: 640px" />
+<col style="width: 40px" />
+</colgroup>
+<tbody>
+<tr>
+<td valign="top" width="40">
+</td>
+<!-- [s] ìì ê±°ë¶ -->                  <td style="font-size: 11px; color: #888888; padding-bottom: 20px" valign="top" width="640">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding-bottom: 8px; padding-top: 0px; padding-left: 20px; padding-right: 0px">
+<p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; line-height: 18px; padding-right: 0px">
+<img align="middle" border="0" src="http://img.miraeassetdaewoo.com/email/daily/edm_dot.gif" />&nbsp;&nbsp;ìê¸° ë´ì©ì í¬ìíë¨ì ì°¸ê³ ì¬í­ì´ë©°, í¬ì íë¨ì ìµì¢ ì±ìì ì´ëíìë ì´ì©ììê² ììµëë¤.</p>
+</td>
+</tr>
+<tr>
+<td style="padding-bottom: 8px; padding-top: 0px; padding-left: 20px; padding-right: 0px">
+<p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; line-height: 18px; padding-right: 0px">
+<img align="middle" border="0" src="http://img.miraeassetdaewoo.com/email/daily/edm_dot.gif" />&nbsp;&nbsp;ë³¸ë©ì¼ì ì ì¼ ê¸°ì¤ ë¯¸ëììëì° ì´ë©ì¼ìë¹ì¤ ìì  ëìíì  ê³ ê°ëì ëìì¼ë¡ ë°ì¡íë ë©ì¼ìëë¤.<br />
+&nbsp;&nbsp;&nbsp;ë ì´ì ìì ì ìì¹ ìì¼ìë©´ <a href="http://mailing.miraeasset.com:8082/Check.html?TV9JRD0zMDkwMTQ=&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FTVNfTUFTU19TRU5EX0xJU1RfMDQ=&UE9TVF9JRD0yMDE3MDQwNjAwMDAy&VEM9MjAxNzA1MDY=&S0lORD1D&Q0lEPTAwNw==&URL=https://www.miraeassetdaewoo.com/frame.jsp?secure=Y&amp;url=%2Fhku%2Fhku3009%2Fp01.do%3Fsvc%3DB%26pagemode%3Dapp%26email%3DP3wxuXD/z4smaBAexccc1pSjjLu4/7iMlQiPIjGy+2Q=" style="text-decoration: underline; font-weight: bold; color: #f36910" target="blank" title="ìì ê±°ë¶ ì ì°½ ì´ë¦¼">ì¬ê¸°</a>ë¥¼ í´ë¦­íìì´, ì´ë©ì¼ìë¹ì¤ë¥¼ ê±°ë¶í´ ì£¼ìê¸° ë°ëëë¤.</p>
+</td>
+</tr>
+<tr>
+<td style="padding-bottom: 8px; padding-top: 0px; padding-left: 20px; padding-right: 0px">
+<p style="padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; line-height: 18px; padding-right: 0px">
+<img align="middle" border="0" src="http://img.miraeassetdaewoo.com/email/daily/edm_dot.gif" />&nbsp;&nbsp;ë¯¸ëììëì°ìì ë°ì¡íë ëª¨ë  ë©ì¼ì ìì¹ ìì¼ìë©´ <a href="http://mailing.miraeasset.com:8082/Check.html?TV9JRD0zMDkwMTQ=&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FTVNfTUFTU19TRU5EX0xJU1RfMDQ=&UE9TVF9JRD0yMDE3MDQwNjAwMDAy&VEM9MjAxNzA1MDY=&S0lORD1D&Q0lEPTAwOA==&URL=https://www.miraeassetdaewoo.com/frame.jsp?secure=Y&amp;url=%2Fhku%2Fhku3009%2Fp01.do%3Fsvc%3DA%26pagemode%3Dapp%26email%3DP3wxuXD/z4smaBAexccc1pSjjLu4/7iMlQiPIjGy+2Q=" style="text-decoration: underline; font-weight: bold; color: #f36910" target="blank" title="ìì ê±°ë¶ ì ì°½ ì´ë¦¼">[ìì ê±°ë¶]</a>ë¥¼ í´ì£¼ìê¸° ë°ëëë¤.<br />
+&nbsp;&nbsp;&nbsp;If you don&rsquo;t want to receive this e-mail anymore, <a href="http://mailing.miraeasset.com:8082/Check.html?TV9JRD0zMDkwMTQ=&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FTVNfTUFTU19TRU5EX0xJU1RfMDQ=&UE9TVF9JRD0yMDE3MDQwNjAwMDAy&VEM9MjAxNzA1MDY=&S0lORD1D&Q0lEPTAwOQ==&URL=https://www.miraeassetdaewoo.com/frame.jsp?secure=Y&amp;url=%2Fhku%2Fhku3009%2Fp01.do%3Fsvc%3DA%26pagemode%3Dapp%26lan%3Deng%26email%3DP3wxuXD/z4smaBAexccc1pSjjLu4/7iMlQiPIjGy+2Q=" style="text-decoration: underline; font-weight: bold; color: #f36910" target="blank" title="ìì ê±°ë¶ ì ì°½ ì´ë¦¼">click here.</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<!-- [e] ìì ê±°ë¶ -->                  <td valign="top" width="40">
+</td>
+</tr>
+<tr>
+<td valign="top" width="40">
+</td>
+<!-- [s] footer -->                  <td style="font-size: 11px; border-top: #e5e7e9 1px solid; padding-bottom: 20px" valign="top" width="640">
+<table border="0" cellpadding="0" cellspacing="0">
+<colgroup>
+<col style="width: 150px" />
+<col />
+</colgroup>
+<tbody>
+<tr>
+<td style="padding-bottom: 0px; padding-top: 15px; padding-left: 20px; padding-right: 0px" valign="top">
+<img align="absMiddle" alt="ë¯¸ëììëì°" border="0" src="http://img.miraeassetdaewoo.com/email/daily/edm_footer_logo.gif" /></td>
+<td style="color: #777777; padding-bottom: 20px; padding-top: 25px; padding-left: 0px; padding-right: 0px">
+<p style="padding-bottom: 0px; padding-top: 0px; padding-left: 8px; margin: 0px; line-height: 18px; padding-right: 0px">
+<span style="color: #555555">ê³ ê°ì¼í°</span> <span style="color: #0059a6">1588-6800</span> íì¼ 07:30 ~ 18:00 (í ìì¼ ë° ê³µí´ì¼ ì´ì©ë¶ê°)</p>
+<p style="padding-bottom: 0px; padding-top: 0px; padding-left: 8px; margin: 0px; line-height: 18px; padding-right: 0px">
+<span style="color: #555555">í´ì§ì°ê¸ìë´ì¼í°</span> <span style="color: #0059a6">02-3774-2000</span> íì¼ 09:00 ~ 18:00 (í ìì¼ ë° ê³µí´ì¼ ì´ì©ë¶ê°)</p>
+<p style="padding-bottom: 0px; padding-top: 0px; padding-left: 8px; margin: 0px; line-height: 23px; padding-right: 0px">
+04539, ìì¸ì ì¤êµ¬ ìì§ë¡5ê¸¸ 26 ë¯¸ëìì ì¼í°ìë¹ë© ì´ì¤í¸íì</p>
+<p style="padding-bottom: 0px; padding-top: 0px; padding-left: 8px; margin: 0px; line-height: 23px; padding-right: 0px">
+COPYRIGHT(c)<span style="color: #333333">2017 MIRAE ASSET DAEWOO Co., LTD. All Rights Reserved.</span></p>
+<a href="http://mailing.miraeasset.com:8082/Check.html?TV9JRD0zMDkwMTQ=&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FTVNfTUFTU19TRU5EX0xJU1RfMDQ=&UE9TVF9JRD0yMDE3MDQwNjAwMDAy&VEM9MjAxNzA1MDY=&S0lORD1D&Q0lEPTAxMA==&URL=https://www.facebook.com/miraeassetmstock" target="blank" title="ë¯¸ëììëì° íì´ì¤ë¶ ì ì°½ ì´ë¦¼"><img alt="íì´ì¤ë¶" border="0" src="http://img.miraeassetdaewoo.com/email/daily/edm_facebook.gif" /></a> <a href="http://mailing.miraeasset.com:8082/Check.html?TV9JRD0zMDkwMTQ=&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FTVNfTUFTU19TRU5EX0xJU1RfMDQ=&UE9TVF9JRD0yMDE3MDQwNjAwMDAy&VEM9MjAxNzA1MDY=&S0lORD1D&Q0lEPTAxMQ==&URL=https://twitter.com/mstock_ebiz" target="blank" title="ë¯¸ëììëì° í¸ìí° ì ì°½ ì´ë¦¼"><img alt="í¸ìí°" border="0" src="http://img.miraeassetdaewoo.com/email/daily/edm_twitter.gif" /></a> <a href="http://mailing.miraeasset.com:8082/Check.html?TV9JRD0zMDkwMTQ=&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FTVNfTUFTU19TRU5EX0xJU1RfMDQ=&UE9TVF9JRD0yMDE3MDQwNjAwMDAy&VEM9MjAxNzA1MDY=&S0lORD1D&Q0lEPTAxMg==&URL=http://blog.naver.com/how2invest" target="blank" title="ë¯¸ëììëì° ë¸ë¡ê·¸ ì ì°½ ì´ë¦¼"><img alt="ë¸ë¡ê·¸" border="0" src="http://img.miraeassetdaewoo.com/email/daily/edm_blog.gif" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<!-- [e] footer -->                  <td valign="top" width="40">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div style="display:none"><img src="http://mailing.miraeasset.com:8082/Check.html?TV9JRD0zMDkwMTQ=&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FTVNfTUFTU19TRU5EX0xJU1RfMDQ=&UE9TVF9JRD0yMDE3MDQwNjAwMDAy&VEM9MjAxNzA1MDY=&S0lORD1P" width=1 height=1></div>
+<iframe src="http://mailing.miraeasset.com:8082/Check.html?TV9JRD0zMDkwMTQ=&U1RZUEU9TUFTUw==&TElTVF9UQUJMRT1FTVNfTUFTU19TRU5EX0xJU1RfMDQ=&UE9TVF9JRD0yMDE3MDQwNjAwMDAy&VEM9MjAxNzA1MDY=&S0lORD1E" frameborder="0" width="1" height="1"></iframe>
+</body>
+</html>
+
+
+

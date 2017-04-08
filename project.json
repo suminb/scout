@@ -1,0 +1,8 @@
+{
+  "name": "scout",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::236145864830:role/scout_lambda_function",
+  "environment": {}
+}
