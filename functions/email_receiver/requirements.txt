@@ -1,4 +1,4 @@
 slackclient>=1.0.5
 requests>=2.13.0
-logbook
-click
+logbook>=1.0.0
+click>=6.7

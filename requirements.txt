@@ -1,2 +1,0 @@
-click>=6.7
-slackclient>=1.0.5
