@@ -15,15 +15,7 @@ def cli():
 
 @cli.command()
 def upload():
-    resp = sc.api_call(
-        'files.upload',
-        channel='#general',
-        file=open('sample.txt').read(),
-        title='sample.txt',
-        channels='#general',
-    )
-
-    print(resp)
+    raise NotImplementedError()
 
 
 if __name__ == '__main__':
